@@ -2,5 +2,5 @@
 
 Relatórios da disciplina de Conceitos e Tecnologias para Dispositivos Conectados (C115).
 
-Aluno: Luiz Matheus R. Cândido
+Aluno: Luiz Matheus R. Cândido  
 Engenharia de Computação
